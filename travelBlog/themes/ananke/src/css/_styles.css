@@ -1,0 +1,20 @@
+/* Put your custom styles here and run `npm start` from the "src" directory on */
+html, body {
+	background-color: #41463D;
+	color: white;
+}
+footer {
+	background-color: #9D8DF1!important;
+}
+
+.color-inherit {
+	color: #1CFEBA!important;
+}
+
+.hover-bg-moon-pale {
+	background-color: #B8CDF8;
+}
+
+.social a {
+	fill: #B8CDF8;
+}
